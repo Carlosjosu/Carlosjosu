@@ -12,7 +12,7 @@ Soy un estudiante de ingenieria en Computacíon, apasionado por la tecnologia. M
 ### 🌱 Actualmente aprendiendo
 - Programacion Orientada a Objetos. 
 
-### 👨‍💻 Mis proyectos destacados
+### 👨‍💻 Mis proyectos en Colaboración
 - **[Zoologico](https://github.com/R0yalCode/Zoologico)**: Un sistema de gestión de un zoologico basado en Diagramas de clase.
 - **[Restaurante](https://github.com/R0yalCode/Restaurante)**: Un sistema de gestion de un restaurabnte basado en Diagramas de clase, implentando el codigo en base al diagrama de clase.
 
